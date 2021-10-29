@@ -1,12 +1,12 @@
 %define kloxo /usr/local/lxlabs/kloxo/httpdocs/htmllib
-%define productname kloxong-addon
+%define productname kloxokr-addon
 %define packagename yui-dragdrop
 %define sourcename %{packagename}
 
 Name: %{productname}-%{packagename}
 Summary: Javascript Framework HTML 
 Version: 2.9.0
-Release: 3.kng%{?dist}
+Release: 3.kkr%{?dist}
 License: GPL
 URL: http://yuilibrary.com/yui/docs/dd/
 Group: Applications/Internet
